@@ -41,6 +41,7 @@ namespace engine
 				body["userName"] = _userName;
 				body["score"] = _score;
 				request.setBody(body);
+				request.setField("Content-Type", "application/json");
 			}
 
 			void Leaderboard::SendScoreTask::processResponse(sf::Http::Response &response)
