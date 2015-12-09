@@ -1,0 +1,12 @@
+{
+    "eqeqeq": true,
+    "freeze": true,
+    "maxcomplexity": 10,
+    "maxdepth": 3,
+    "maxparams": 5,
+    "maxstatements": 20,
+    "node": true,
+    "strict": "global",
+    "undef": true,
+    "unused": true
+}

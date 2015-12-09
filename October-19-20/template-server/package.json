@@ -1,0 +1,7 @@
+{
+  "name": "template-server",
+  "main": "app.js",
+  "dependencies": {
+    "engine.io": "^1.5.4"
+  }
+}

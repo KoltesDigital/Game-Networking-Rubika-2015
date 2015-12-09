@@ -1,0 +1,17 @@
+{
+    "eqeqeq": true,
+    "freeze": true,
+    "globals": {
+        "agent": false,
+        "resetDatabases": false
+    },
+    "maxcomplexity": 10,
+    "maxdepth": 3,
+    "maxparams": 5,
+    "maxstatements": 20,
+    "mocha": true,
+    "node": true,
+    "strict": "global",
+    "undef": true,
+    "unused": true
+}
